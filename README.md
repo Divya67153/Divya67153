@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DIVYA VARSHA
 - 👀 I’m interested in Web and Android developing
-- 🌱 I’m currently learning java programing
+- 🌱 I’m currently learning C programing
 - 💞️ I’m looking to collaborate on source codes
 - 📫 How to reach me email me-divyavarsha67@gmail.com
 
